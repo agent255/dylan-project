@@ -1,13 +1,23 @@
 *,
 *::after,
 *::before {
-  box-sizing: border-box;
-  color: #f4f4f2;
+    box-sizing: border-box;
+    color: #f4f4f2;
 }
 #home {
-  background-color: #bbbfca;
-  height: 100vh;
-  text-align: center;
+    background-color: #f4f4f2;
+    height: 100vh;
+    text-align: center;
 }
-h1 {
+
+.navbar {
+    background-color: #495464;
+}
+
+.navbar-brand {
+    color: #f4f4f2;
+}
+
+.nav-link {
+    color: #f4f4f2;
 }
