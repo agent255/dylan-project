@@ -21,3 +21,17 @@
 .nav-link {
     color: #f4f4f2;
 }
+
+.brandname {
+    position: relative;
+    top: 18px;
+    font-size: large;
+    margin: 0;
+}
+
+.semibrand {
+    position: relative;
+    top: 13px;
+    font-size: medium;
+    margin-bottom: 0;
+}
