@@ -1,0 +1,13 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  color: #f4f4f2;
+}
+#home {
+  background-color: #bbbfca;
+  height: 100vh;
+  text-align: center;
+}
+h1 {
+}
